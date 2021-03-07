@@ -1,0 +1,19 @@
+{
+  "name": "myipiswhat",
+  "version": "1.0.0",
+  "description": "Website that checks your ip-address",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffyhake/myipiswhat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffyhake/myipiswhat/issues"
+  },
+  "homepage": "https://github.com/fluffyhake/myipiswhat#readme"
+}
