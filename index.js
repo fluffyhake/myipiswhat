@@ -19,6 +19,7 @@ const server = http.createServer ((req,res) => {
             res.write(srcip);
             res.write('</html>');
             res.end();
+            console.log(srcip)
 
         }else{
             res.writeHead(404, { 'Content-Type': 'text/html'});
