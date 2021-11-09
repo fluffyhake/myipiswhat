@@ -1,0 +1,4 @@
+sudo apt install nodejs
+sudo apt install npm
+
+add extension "code runner"
