@@ -1,1 +1,9 @@
-Thanks
+Super simple ip check website made in nodejs.
+
+Is currently designed to be reverse-proxied behind a nginx. Nginx will handle security and certificates.
+
+
+Requires:
+http
+path
+fs
